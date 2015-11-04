@@ -1,4 +1,4 @@
-#!/home/madaki/djangoprograms/madaxx/bin/python
+#!/home/madaki/djangoprograms/madaxx/bin/python3.4
 from django.core import management
 
 if __name__ == "__main__":
